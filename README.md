@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheDzashe
-- 👀 I’m interested in everything really. Jack of all trades, master of many. Programming, art, music, film, sport. You name it, I probably love it <3
+- 👀 I’m interested in everything really. Jack of all trades, master of many. Programming, art, music, film, sport. You name it, I probably love it!
 - 🌱 I’m currently learning C++
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: In 3rd grade, everyone in my class (including my teacher), made a song called "Mrs Chatter-box" about me. I would tell you how it went but that would be proving their point.
