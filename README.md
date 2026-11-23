@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.jpg"
-     width="100%"
-     alt="TheDzashe — Dragonbound fantasy banner" />
+<img src="./assets/banner.jpg" width="100%" alt="fantasy banner" />
 
 # TheDzashe
 
 ### Full-Stack Developer · Computer Science · Builder of Things
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=70A9D6&center=true&vCenter=true&width=650&lines=Building+ideas+into+working+software.;Exploring+the+full+stack%2C+from+UI+to+APIs.;Turning+curiosity+into+code%2C+one+commit+at+a+time." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=70A9D6&center=true&vCenter=true&width=650&lines=Building+ideas+into+working+software.;Exploring+the+full+stack%2C+from+UI+to+APIs.;Dragon+rider+of+the+codebase.;Turning+curiosity+into+code%2C+one+commit+at+a+time." alt="Animated introduction" />
 
 *Curious by nature. Creative by default. Always building something.*
 
@@ -16,6 +14,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-173D65?style=flat&logo=linkedin&logoColor=white)](TODO_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Say_hello-8D2436?style=flat&logo=gmail&logoColor=white)](mailto:TODO_EMAIL_ADDRESS)
 
+<br />
+
 </div>
 
 <div align="center">
@@ -24,7 +24,18 @@
        alt="Night Court decorative divider" />
 </div>
 
-## I. The Developer
+<br>
+<br>
+
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=70A9D6&center=false&vCenter=true&width=500&height=45&repeat=false&lines=I.+The+Developer" alt="I. The Developer" />
+</div>
+
+<div align="center">
+
+*"Some people read the map. Some people draw it. I'm still deciding, so I do both."*
+
+</div>
 
 Hey! I'm **TheDzashe**, a Computer Science student at the **University of Pretoria** and an aspiring full-stack software developer.
 
@@ -32,10 +43,26 @@ I enjoy working across the stack: building user-facing experiences, designing AP
 
 Outside of code, I'm a bit of a jack of all trades. I'm into **art, music, film, sport and fantasy**. Basically, if it gives me something new to explore, I'm interested.
 
-- Currently building and improving full-stack applications.
-- Exploring software engineering, cloud technologies and AI-powered applications.
-- Interested in creating useful products with thoughtful design and solid engineering.
-- Fun fact: In Grade 3, my entire class (teacher included) made a song called *"Mrs Chatter-box"* about me. I would tell you how it went, but that might prove their point.
+### Rider's Profile
+
+| | |
+|:--|:--|
+| **Class** | Full-Stack Developer |
+| **Allegiance** | University of Pretoria · Computer Science |
+| **Weapons of choice** | Java · TypeScript · Python |
+| **Bonded to** | A dragon, obviously |
+| **Currently questing** | Building and improving full-stack applications |
+| **Exploring** | Cloud technologies and AI-powered applications |
+| **Creed** | Thoughtful design, solid engineering, useful products |
+
+<details>
+<summary><b>Fun fact: the legend of "Mrs Chatter-box" (click to unseal)</b></summary>
+
+<br />
+
+In Grade 3, my entire class (teacher included) made a song called *"Mrs Chatter-box"* about me. I would tell you how it went, but that might prove their point.
+
+</details>
 
 <div align="center">
   <img src="./assets/dragon-night-court.svg"
@@ -43,9 +70,19 @@ Outside of code, I'm a bit of a jack of all trades. I'm into **art, music, film,
        alt="Night Court decorative divider" />
 </div>
 
-## II. The Arsenal
+<br>
+<br>
+
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=70A9D6&center=false&vCenter=true&width=500&height=45&repeat=false&lines=II.+The+Arsenal"
+       alt="II. The Arsenal" />
+</div>
+
+*Every rider needs their weapons. These are mine.*
 
 ### Languages
+
+*The blades I carry.*
 
 ![C++](https://img.shields.io/badge/C++-173D65?style=flat&logo=cplusplus&logoColor=70A9D6)
 ![Java](https://img.shields.io/badge/Java-173D65?style=flat&logo=openjdk&logoColor=70A9D6)
@@ -56,13 +93,17 @@ Outside of code, I'm a bit of a jack of all trades. I'm into **art, music, film,
 
 ### Frameworks & development
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-172438?style=flat&logo=springboot&logoColor=6DB33F)
-![Angular](https://img.shields.io/badge/Angular-172438?style=flat&logo=angular&logoColor=DD0031)
-![React](https://img.shields.io/badge/React-172438?style=flat&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-172438?style=flat&logo=fastapi&logoColor=009688)
-![REST APIs](https://img.shields.io/badge/REST_APIs-172438?style=flat&logoColor=70A9D6)
+*The wings that carry me across the stack.*
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-8D2436?style=flat&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-8D2436?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-8D2436?style=flat&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-8D2436?style=flat&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-8D2436?style=flat&logoColor=white)
 
 ### Databases, cloud & tools
+
+*The fortress and the supply lines.*
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172438?style=flat&logo=postgresql&logoColor=70A9D6)
 ![Redis](https://img.shields.io/badge/Redis-172438?style=flat&logo=redis&logoColor=DC382D)
@@ -74,10 +115,12 @@ Outside of code, I'm a bit of a jack of all trades. I'm into **art, music, film,
 
 ### Testing & design
 
-![JUnit 5](https://img.shields.io/badge/JUnit_5-172438?style=flat&logo=junit5&logoColor=25A162)
-![Mockito](https://img.shields.io/badge/Mockito-172438?style=flat&logoColor=70A9D6)
-![Postman](https://img.shields.io/badge/Postman-172438?style=flat&logo=postman&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/Figma-172438?style=flat&logo=figma&logoColor=F24E1E)
+*The healers and the scribes: keeping things alive and keeping them beautiful.*
+
+![JUnit 5](https://img.shields.io/badge/JUnit_5-8D2436?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-8D2436?style=flat&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-8D2436?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-8D2436?style=flat&logo=figma&logoColor=white)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,spring,angular,react,fastapi,postgres,redis,docker,aws,git,github,linux,html,css,figma&theme=dark" alt="Technology icons" />
@@ -89,20 +132,37 @@ Outside of code, I'm a bit of a jack of all trades. I'm into **art, music, film,
        alt="Night Court decorative divider" />
 </div>
 
-## III. Beyond the Realm
+<br>
+<br>
 
-A few things that keep me inspired:
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=70A9D6&center=false&vCenter=true&width=500&height=45&repeat=false&lines=III.+Beyond+the+Realm"
+       alt="III. Beyond the Realm" />
+</div>
 
-- **Fantasy:** Dragons, complicated worlds, epic quests and stories, especially *The Empyrean* series and *A Court of Thorns and Roses*.
-- **Film & anime:** Always open to a good story. *Attack on Titan* has set the bar pretty high.
-- **Art & creativity:** I love creative expression in all its forms.
-- **Music & sport:** A little bit of everything, depending on the day.
+*A few things that keep me inspired.*
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><b>Reading</b><br /><sub>Dragons, complicated worlds and epic quests<br />The Empyrean series<br />A Court of Thorns and Roses</sub></td>
+    <td align="center" width="33%"><b>Watching</b><br /><sub>Always open to a good story<br />Attack on Titan set the bar pretty high</sub></td>
+    <td align="center" width="33%"><b>Making</b><br /><sub>Art, music and creative things in all their forms<br />A little bit of sport, depending on the day</sub></td>
+  </tr>
+</table>
 
 <div align="center">
+  <img src="./assets/dragon-night-court.svg"
+       width="100%"
+       alt="Night Court decorative divider" />
+</div>
 
-## IV. The Chronicles
+<br>
+<br>
+
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=70A9D6&center=false&vCenter=true&width=500&height=45&repeat=false&lines=IV.+The+Chronicles"
+       alt="IV. The Chronicles" />
+</div>
 
 <div align="center">
 
@@ -111,21 +171,13 @@ A few things that keep me inspired:
 
 <img src="https://streak-stats.demolab.com?user=TheDzashe&hide_border=true&background=101827&ring=70A9D6&fire=8D2436&currStreakNum=C6D2DF&sideNums=C6D2DF&currStreakLabel=70A9D6&sideLabels=70A9D6&dates=9AAABD" alt="GitHub contribution streak" />
 
-</div>
-
-<div align="center">
-  <img src="./assets/dragon-night-court.svg"
-       width="100%"
-       alt="Night Court decorative divider" />
-</div>
+<br />
 
 ### Every great story starts with a first step.
 
-*Thanks for stopping by. May your builds be stable, your bugs be few, and your commits legendary.* 
+*Thanks for stopping by. May your builds be stable, your bugs be few, and your commits legendary.*
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheDzashe&style=flat&color=173D65&label=PROFILE+VISITORS" alt="Profile visitors" /> 
-</div>
+<img src="https://komarev.com/ghpvc/?username=TheDzashe&style=flat&color=173D65&label=PROFILE+VISITORS" alt="Profile visitors" />
 
 
 </div>
