@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/divider-night-court.svg"
+  <img src="./assets/dragon-night-court.svg"
        width="100%"
        alt="Night Court decorative divider" />
 </div>
@@ -34,7 +34,7 @@ Outside of code, I'm a bit of a jack of all trades. I'm into **art, music, film,
 - Fun fact: In Grade 3, my entire class (teacher included) made a song called *"Mrs Chatter-box"* about me. I would tell you how it went, but that might prove their point.
 
 <div align="center">
-  <img src="./assets/divider-night-court.svg"
+  <img src="./assets/dragon-night-court.svg"
        width="100%"
        alt="Night Court decorative divider" />
 </div>
@@ -80,7 +80,7 @@ Outside of code, I'm a bit of a jack of all trades. I'm into **art, music, film,
 </p>
 
 <div align="center">
-  <img src="./assets/divider-night-court.svg"
+  <img src="./assets/dragon-night-court.svg"
        width="100%"
        alt="Night Court decorative divider" />
 </div>
@@ -110,7 +110,7 @@ A few things that keep me inspired:
 </div>
 
 <div align="center">
-  <img src="./assets/divider-night-court.svg"
+  <img src="./assets/dragon-night-court.svg"
        width="100%"
        alt="Night Court decorative divider" />
 </div>
