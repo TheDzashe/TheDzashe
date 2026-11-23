@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png"
+<img src="./assets/banner.jpg"
      width="100%"
      alt="TheDzashe — Dragonbound fantasy banner" />
 
