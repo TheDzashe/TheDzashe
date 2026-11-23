@@ -117,7 +117,7 @@ A few things that keep me inspired:
 
 ### Every great story starts with a first step.
 
-*Thanks for stopping by. May your builds be stable, your bugs be few, and your commits legendary.* 🐉
+*Thanks for stopping by. May your builds be stable, your bugs be few, and your commits legendary.* 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TheDzashe&style=flat&color=173D65&label=PROFILE+VISITORS" alt="Profile visitors" /> 
