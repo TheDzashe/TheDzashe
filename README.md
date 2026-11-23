@@ -14,7 +14,11 @@
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/divider-night-court.svg"
+       width="100%"
+       alt="Night Court decorative divider" />
+</div>
 
 ## I. The Developer
 
@@ -29,7 +33,11 @@ Outside of code, I'm a bit of a jack of all trades. I'm into **art, music, film,
 - Interested in creating useful products with thoughtful design and solid engineering.
 - Fun fact: In Grade 3, my entire class (teacher included) made a song called *"Mrs Chatter-box"* about me. I would tell you how it went, but that might prove their point.
 
----
+<div align="center">
+  <img src="./assets/divider-night-court.svg"
+       width="100%"
+       alt="Night Court decorative divider" />
+</div>
 
 ## II. The Arsenal
 
@@ -71,7 +79,11 @@ Outside of code, I'm a bit of a jack of all trades. I'm into **art, music, film,
   <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,spring,angular,react,fastapi,postgres,redis,docker,aws,git,github,linux,html,css,figma&theme=dark" alt="Technology icons" />
 </p>
 
----
+<div align="center">
+  <img src="./assets/divider-night-court.svg"
+       width="100%"
+       alt="Night Court decorative divider" />
+</div>
 
 ## III. Beyond the Realm
 
@@ -97,7 +109,11 @@ A few things that keep me inspired:
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/divider-night-court.svg"
+       width="100%"
+       alt="Night Court decorative divider" />
+</div>
 
 ### Every great story starts with a first step.
 
