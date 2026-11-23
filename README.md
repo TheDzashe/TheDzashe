@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/banner.png"
+     width="100%"
+     alt="TheDzashe — Dragonbound fantasy banner" />
+
 # TheDzashe
 
 ### Full-Stack Developer · Computer Science · Builder of Things
