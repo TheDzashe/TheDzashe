@@ -20,7 +20,6 @@
 </div>
 
 <br>
-<br>
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=70A9D6&center=false&vCenter=true&width=500&height=45&repeat=false&lines=I.+The+Developer" alt="I. The Developer" />
@@ -38,13 +37,11 @@ I enjoy working across the stack: building user-facing experiences, designing AP
 </div>
 
 <br>
-<br>
 
 <div align="center">
   <img src="./assets/rider-profile.svg" width="100%" alt="Rider's Profile: Full-Stack Developer at the University of Pretoria, skilled in Java, TypeScript, Python, Spring Boot, Angular, React, Docker and more" />
 </div>
 
-<br>
 <br>
 
 <p align="center">
@@ -57,7 +54,6 @@ I enjoy working across the stack: building user-facing experiences, designing AP
        alt="Night Court decorative divider" />
 </div>
 
-<br>
 <br>
 
 <div align="left">
@@ -125,7 +121,6 @@ In Grade 3, my entire class (teacher included) made a song called *"Mrs Chatter-
        alt="Night Court decorative divider" />
 </div>
 
-<br>
 <br>
 
 <div align="left">
