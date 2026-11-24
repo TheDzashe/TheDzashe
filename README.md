@@ -6,8 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=B03A52&center=true&vCenter=true&width=700&lines=Turning+ideas+into+applications;Writing+code%2C+solving+problems%2C+creating+possibilities;Wings+up%2C+tests+green;Forging+ideas+into+reality;Reading+fantasy%2C+writing+code" alt="Animated introduction" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-173D65?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyashadzashe-makwabarara/)
-[![Email](https://img.shields.io/badge/Email-Say_hello-8D2436?style=flat&logo=gmail&logoColor=white)](mailto:nyashaprof@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nyashadzashe_Makwabarara-173D65?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyashadzashe-makwabarara/)
+[![Email](https://img.shields.io/badge/Email-nyashaprof@gmail.com-8D2436?style=flat&logo=gmail&logoColor=white)](mailto:youraddress@gmail.com?subject=Hello%20from%20your%20GitHub)
 
 <br />
 
