@@ -2,13 +2,9 @@
 
 <img src="./assets/banner.jpg" width="100%" alt="fantasy banner" />
 
-# TheDzashe
+### Full-Stack Developer · Computer Science @ UP · Building Software
 
-### Full-Stack Developer · Computer Science · Builder of Things
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=70A9D6&center=true&vCenter=true&width=650&lines=Building+ideas+into+working+software.;Exploring+the+full+stack%2C+from+UI+to+APIs.;Dragon+rider+of+the+codebase.;Turning+curiosity+into+code%2C+one+commit+at+a+time." alt="Animated introduction" />
-
-*Curious by nature. Creative by default. Always building something.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=B03A52&center=true&vCenter=true&width=700&lines=Turning+ideas+into+applications;Writing+code%2C+solving+problems%2C+creating+possibilities;Wings+up%2C+tests+green;Forging+ideas+into+reality;Reading+fantasy%2C+writing+code" alt="Animated introduction" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-TheDzashe-172438?style=flat&logo=github&logoColor=white)](https://github.com/TheDzashe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-173D65?style=flat&logo=linkedin&logoColor=white)](TODO_LINKEDIN_URL)
@@ -37,11 +33,10 @@
 
 </div>
 
-Hey! I'm **TheDzashe**, a Computer Science student at the **University of Pretoria** and an aspiring full-stack software developer.
+Hey! I'm Nyashadzashe, a full-stack developer and a Computer Science graduate. 
 
 I enjoy working across the stack: building user-facing experiences, designing APIs, working with databases, and exploring how intelligent systems can make software more useful. I like learning by building, solving problems, and figuring out how all the pieces fit together.
 
-Outside of code, I'm a bit of a jack of all trades. I'm into **art, music, film, sport and fantasy**. Basically, if it gives me something new to explore, I'm interested.
 
 ### Rider's Profile
 
@@ -50,7 +45,6 @@ Outside of code, I'm a bit of a jack of all trades. I'm into **art, music, film,
 | **Class** | Full-Stack Developer |
 | **Allegiance** | University of Pretoria · Computer Science |
 | **Weapons of choice** | Java · TypeScript · Python |
-| **Bonded to** | A dragon, obviously |
 | **Currently questing** | Building and improving full-stack applications |
 | **Exploring** | Cloud technologies and AI-powered applications |
 | **Creed** | Thoughtful design, solid engineering, useful products |
