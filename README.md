@@ -27,7 +27,7 @@
 
 Hey! I'm Nyashadzashe, a full-stack developer and a Computer Science graduate. 
 
-I enjoy working across the stack: building user-facing experiences, designing APIs, working with databases, and exploring how intelligent systems can make software more useful. I like learning by building, solving problems, and figuring out how all the pieces fit together.
+I like understanding a product end-to-end, so building user-facing experiences, designing APIs, working with databases, and exploring how intelligent systems can make software more useful. I like learning by building, solving problems, and figuring out how all the pieces fit together.
 
 <br>
 <div align="left">
